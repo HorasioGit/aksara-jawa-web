@@ -1,0 +1,10 @@
+{
+  "opencv.js": {
+    "parts": 3,
+    "bytes": 10872779
+  },
+  "ort-wasm-simd-threaded.wasm": {
+    "parts": 3,
+    "bytes": 14848852
+  }
+}
