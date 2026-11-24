@@ -1,0 +1,10 @@
+{
+  "aksara-cls.onnx": {
+    "parts": 5,
+    "bytes": 21811565
+  },
+  "aksara-ocr.onnx": {
+    "parts": 4,
+    "bytes": 16001040
+  }
+}
